@@ -1,3 +1,3 @@
 # test_jdbc
  
-1.Using maven reposotory 
+1.Using maven repository
